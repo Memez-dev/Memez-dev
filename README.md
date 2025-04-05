@@ -9,12 +9,20 @@
 ------Full Bio-----
 
  Christian
+ 
  16
+ 
  Birthday: 03/25
+ 
  Semi-Known
+ 
  Known as memez
+ 
  Unity Dev
+ 
  Learning c#
+ 
  Learning Python
+ 
 
 -------------------
