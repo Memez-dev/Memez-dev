@@ -1,15 +1,15 @@
 :root {
-  --ocean-bg: url(https://i.imgur.com/weOUkrT.png);
-  --ocean-home-icon: url(https://i.imgur.com/knu0gJQ.png);
-  --ocean-color1: #00d5ce;
-  --ocean-color2: #0a173a;
-  --ocean-color3: #1487b1;
-  --watermark-filter-invert: 0%;
-  --watermark-filter-sepia: 50%;
-  --watermark-filter-saturate: 3000%;
-  --watermark-filter-hue-rotate: 150deg;
-  --watermark-filter-brightness: 100%;
-  --watermark-filter-contrast: 200%;
+ --ocean-bg: url(https://ibb.co/nNQs7bZM);
+ --ocean-home-icon: url(https://imgur.com/a/AZ9KtJx);
+ --ocean-color1: #0019BD;
+ --ocean-color2: #00FF09;
+ --ocean-color3: #FF0000;
+ --watermark-filter-invert: 0%;
+ --watermark-filter-sepia: 50%;
+ --watermark-filter-saturate: 3000%;
+ --watermark-filter-hue-rotate: 150deg;
+ --watermark-filter-brightness: 100%;
+ --watermark-filter-contrast: 200%;
 }
 
 .app__160d8 {
